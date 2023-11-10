@@ -1,0 +1,41 @@
+.main{
+    margin: auto;
+    background-image: url(../img/bg.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.figure{
+    background-color:white;
+    width: 18em;
+    display: inline-block;
+    margin: .5em;
+    margin-top: 6em;
+    box-shadow: .5em .25em .5em grey;
+    text-align: left;
+}
+
+.image{
+    width: 100%;
+}
+.header{
+    width: 10em;
+    height: 10em;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: auto;
+    margin-top: -5em;
+    border: .15em solid white;
+    box-shadow: 0em 0em .3em grey;
+}
+.body{
+    padding:1em;
+}
+.heading{
+    font-size: 1.15em;
+    margin: 0;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid black;
+}
